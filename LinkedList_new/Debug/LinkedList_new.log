@@ -1,0 +1,5 @@
+﻿  CSVparser.cpp
+  LinkedList_new.cpp
+C:\Users\armah\source\repos\LinkedList_new\LinkedList_new\LinkedList_new.cpp(324,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  LinkedList_new.vcxproj -> C:\Users\armah\source\repos\LinkedList_new\Debug\LinkedList_new.exe
